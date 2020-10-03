@@ -1,0 +1,54 @@
+body{
+    background-color: #343a40;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 600px;
+}
+
+.carousel-inner{
+    height: 400px;
+}
+
+.zonaAlta .navSuperior{
+    background-color: #0A199C;
+    text-align: center;
+    font-size: 22pt;
+    font-weight: 800;
+}
+.enunciado{
+    background: rgba(164,179,87,1);
+    margin: 20px 0px 20px 0px;
+}
+.zonaMedia{
+    height: 500px;
+    margin-bottom: 250px;
+    width: 100%;
+}
+button{
+    align-content: center;
+}
+#iconos{
+    margin: 0px 15px 0px 15px;
+}
+p.EnunciadoProductoDestacado{
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    font-size: 30pt;
+}
+.zonaMedia .carrouselCards{
+    width: 80%;
+    margin-left: 10%;
+}
+.zonaBaja{
+    margin-top: 3%;
+}
+.zonaBaja #notebookMain {
+    width: 80%;
+    max-height: 200px;
+    margin-left: 10%;
+}
+.zonaBaja #notebookMain .card-body .card-text{
+    background-color: white;
+}
