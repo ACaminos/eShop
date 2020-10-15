@@ -50,7 +50,7 @@ footer{
     background-color: black;
     bottom: 0;
     height: 250px;
-    padding: 2% 0% 20% 0%;
+    padding: 2% 0% 24% 0%;
 }
 footer div.LadoIzq{
     margin-left: 3%;
@@ -58,7 +58,7 @@ footer div.LadoIzq{
     width: 45%;
 }
 footer div.LadoDer{
-    margin-left: 3%;
+    margin-left: 0%;
     float: right;
     width: 45%;
 }
@@ -70,5 +70,19 @@ footer div.registrarse button{
     margin-left: 50%;
 }
 footer div.LadoDer table tr td img{
-    margin-right: ;
+    margin: 0px 100px 0px 100px;
+}
+footer div.LadoDer p{
+    text-align: center;
+}
+footer div.LadoDer table{
+    margin-left: 16%;
+}
+p.texto{
+    color: white;
+    font-size: 12pt;
+}
+p.centrado{
+    color: red;
+    text-align: center;
 }
