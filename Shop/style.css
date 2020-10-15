@@ -1,3 +1,6 @@
+html{
+    position: relative:
+}
 body{
     background-color: #343a40;
 }
@@ -41,14 +44,31 @@ p.EnunciadoProductoDestacado{
     width: 80%;
     margin-left: 10%;
 }
-.zonaBaja{
-    margin-top: 3%;
+footer{
+    position: relative;
+    width: 100%;
+    background-color: black;
+    bottom: 0;
+    height: 250px;
+    padding: 2% 0% 20% 0%;
 }
-.zonaBaja #notebookMain {
-    width: 80%;
-    max-height: 200px;
-    margin-left: 10%;
+footer div.LadoIzq{
+    margin-left: 3%;
+    float: left;
+    width: 45%;
 }
-.zonaBaja #notebookMain .card-body .card-text{
-    background-color: white;
+footer div.LadoDer{
+    margin-left: 3%;
+    float: right;
+    width: 45%;
+}
+button #registro{
+    margin-right: 50%;
+}
+footer div.registrarse button{
+    margin-top: 10px;
+    margin-left: 50%;
+}
+footer div.LadoDer table tr td img{
+    margin-right: ;
 }
