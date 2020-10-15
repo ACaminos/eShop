@@ -1,5 +1,5 @@
 html{
-    position: relative:
+    position: relative;
 }
 body{
     background-color: #343a40;
@@ -60,7 +60,7 @@ footer div.LadoIzq{
 footer div.LadoDer{
     margin-left: 0%;
     float: right;
-    width: 45%;
+    width: 47%;
 }
 button #registro{
     margin-right: 50%;
